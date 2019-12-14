@@ -1,0 +1,10 @@
+# main links
+main:
+  - title: "Kesanto"
+    url: "/kesanto"
+  - title: "Koirat"
+    url: "/koirat"
+  - title: "Lampaat"
+    url: "/lampaat"
+  - title: "Muistoissa"
+    url: "/muistoissa"
