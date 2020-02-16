@@ -39,7 +39,7 @@ Boomtown French Braid, syntynyt 24.1.2011.
 Letti on musta partistyttö. Letti tuli Kesannolle Ruotsista vuonna
 2011 yhdessä veljensä kanssa.
 
-Letti on kisannut koiratanssissa ja rallytokossa. Letin kanssa
+Letti on kisannut koiratanssissa. Letin kanssa
 aloitettiin myös harjoittelemaan paimennusta, mutta se osoittautui
 olevan aivan liian intensiivinen sekä ohjaajalle että lampaille.
 
@@ -54,7 +54,7 @@ Boomtown French Flair, syntynyt 24.1.2011.
 Viira on musta partispoika, ja se tuli myös Kesannolle Ruotsista
 vuonna 2011.
 
-Viira on kisannut koiratanssissa ja tokossa. Viiran kanssa aloitettiin
+Viira on kisannut koiratanssissa, rallytokossa ja tokossa. Viiran kanssa aloitettiin
 myös paimennusharjoitukset, mutta se on sille liian kiihdyttävää. Niin
 kauan kuin lampaat ovat riittävän kaukana ne eivät ole ongelma, mutta
 lampaiden lähellä Viiran mittari menee punaiselle.
