@@ -8,3 +8,5 @@ main:
     url: "/lampaat"
   - title: "Muistoissa"
     url: "/muistoissa"
+  - title: "Kauppa / Shop"
+    url: "https://kesannon.mycashflow.fi/"

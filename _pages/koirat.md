@@ -3,7 +3,20 @@ permalink: /koirat/
 title: "Koirat"
 ---
 
-Kesannolla asuu tällä hetkellä neljä partacollieta.
+Kesannolla asuu tällä hetkellä viisi partacollieta.
+
+## Tyyki
+
+<figure style="width:200px" class="align-right">
+  <img src="/assets/tyyki1.png">
+</figure>
+Jazz Fool in the Rain, syntynyt 18.3.2021.
+
+Tyyki on Kesannon nuorin tulokas. Se on ottanut paikkansa lauman
+pahnan pohjimmaisena ja hyvän tuulen tuojana.
+
+Tyykin kanssa on aloitettu paimennusharjoittelu, ja se on tähän
+mennessä osoittautunut olevan fiksu pikku tyttö.
 
 ## Pitsi
 
