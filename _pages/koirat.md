@@ -3,7 +3,7 @@ permalink: /koirat/
 title: "Koirat"
 ---
 
-Kesannolla asuu tällä hetkellä viisi partacollieta.
+Kesannolla asuu tällä hetkellä neljä partacollieta.
 
 ## Tyyki
 
