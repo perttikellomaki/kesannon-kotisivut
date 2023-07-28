@@ -18,24 +18,6 @@ pahnan pohjimmaisena ja hyvän tuulen tuojana.
 Tyykin kanssa on aloitettu paimennusharjoittelu, ja se on tähän
 mennessä osoittautunut olevan fiksu pikku tyttö.
 
-## Pitsi
-
-<figure style="width:200px" class="align-right">
-  <img src="/assets/pitsi1.jpg">
-</figure>
-Jakailu Tanzanite, syntynyt 14.5.2012.
-
-Pitsi on musta partistyttö, ja se tuli Kesannolle kesällä 2012
-Yorkshiresta. Pitsi on kisannut koiratanssissa ja paimennuksessa.
-
-Valitettavasti kisaura päättyi vuonna 2019 kun Pitsin
-molemmat polvet jouduttiin leikkaamaan. Lisäksi sen päästä löytyi
-sidekudoskasvain, joka aiheutti epileptisiä kohtauksia.
-
-Pitsi sai kasvaimeen sädehoitoa Tierspitalissa Zürichissä, ja tähän
-mennessä hoito näyttäisi tehonneen. Myös polvileikkauksista se on
-toipunut hyvin.
-
 ## Solmu
 
 Jakailu Opal, syntynyt 14.5.2012.

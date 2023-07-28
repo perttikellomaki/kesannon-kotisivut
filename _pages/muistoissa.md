@@ -3,6 +3,28 @@ permalink: /muistoissa/
 title: "Koirat muistoissa"
 ---
 
+## Pitsi
+
+<figure style="width:200px" class="align-right">
+  <img src="/assets/pitsi1.jpg">
+</figure>
+Jakailu Tanzanite, 14.5.2012 - 3.7.2023
+
+Pitsi oli musta partistyttö, ja se tuli Kesannolle kesällä 2012
+Yorkshiresta. Pitsi kisasi koiratanssissa ja paimennuksessa.
+
+Valitettavasti kisaura päättyi vuonna 2019 kun Pitsin
+molemmat polvet jouduttiin leikkaamaan. Lisäksi sen päästä löytyi
+sidekudoskasvain, joka aiheutti epileptisiä kohtauksia.
+
+Pitsi sai kasvaimeen sädehoitoa Tierspitalissa Zürichissä, ja
+hoito tehosi hyvin. Myös polvileikkauksista se
+toipui hyvin.
+
+Pitsi poistui keskuudestamme tyylilleen uskollisena nopeasti.
+Sillä oli sisäelimissä kasvain, jonka puhkeaminen aiheutti massiivisen
+sisäisen verenvuodon, ja sen kunto romahti muutamassa tunnissa.
+
 ## Tykki
 
 Jazz Space Oddity, 24.10.2005 - 13.12.2019.
