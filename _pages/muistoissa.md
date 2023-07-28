@@ -23,7 +23,7 @@ toipui hyvin.
 
 Pitsi poistui keskuudestamme tyylilleen uskollisena nopeasti.
 Sillä oli sisäelimissä kasvain, jonka puhkeaminen aiheutti massiivisen
-sisäisen verenvuodon, ja sen kunto romahti muutamassa tunnissa.
+sisäisen verenvuodon, ja Pitsin kunto romahti muutamassa tunnissa.
 
 ## Tykki
 
