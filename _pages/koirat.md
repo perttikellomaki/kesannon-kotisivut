@@ -3,7 +3,7 @@ permalink: /koirat/
 title: "Koirat"
 ---
 
-Kesannolla asuu tällä hetkellä neljä partacollieta.
+Kesannolla asuu tällä hetkellä kolme partacollieta.
 
 ## Tyyki
 
@@ -15,17 +15,8 @@ Jazz Fool in the Rain, syntynyt 18.3.2021.
 Tyyki on Kesannon nuorin tulokas. Se on ottanut paikkansa lauman
 pahnan pohjimmaisena ja hyvän tuulen tuojana.
 
-Tyykin kanssa on aloitettu paimennusharjoittelu, ja se on tähän
-mennessä osoittautunut olevan fiksu pikku tyttö.
-
-## Solmu
-
-Jakailu Opal, syntynyt 14.5.2012.
-
-Solmu on Pitsin sisko, myöskin musta tyttö. Solmu vietti elämänsä
-kolme ensimmäistä vuotta Ruotsissa ja tuli Kesannolle vuonna 2015.
-
-Solmu on kisannut koiratanssissa ja paimennuksessa.
+Tyyki läpäisi paimennuksen esikokeen PAIM-E kesällä 2024,
+ja sen kanssa on aloitettu paimennuskisojen koluaminen.
 
 ## Letti
 

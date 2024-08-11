@@ -3,6 +3,23 @@ permalink: /muistoissa/
 title: "Koirat muistoissa"
 ---
 
+## Solmu
+
+<figure style="width:200px" class="align-right">
+  <img src="/assets/solmu.jpg">
+</figure>
+Jakailu Opal, 14.5.2012 - 29.7.2024.
+
+Solmu oli musta partistyttö, Pitsin sisko. Solmu vietti elämänsä
+kolme ensimmäistä vuotta Ruotsissa ja tuli Kesannolle vuonna 2015.
+
+Solmun kanssa kisattiin koiratanssissa, rallytokossa ja paimennuksessa.
+
+Solmulla oli krooninen suolistotulehdus, joka pysyi pitkään kurissa
+ruokavaliolla ja lisäaineilla. Lopulta se kuitenkin paheni niin, että
+oli pakko päästää Solmu menemään.
+
+
 ## Pitsi
 
 <figure style="width:200px" class="align-right">
@@ -10,7 +27,7 @@ title: "Koirat muistoissa"
 </figure>
 Jakailu Tanzanite, 14.5.2012 - 3.7.2023
 
-Pitsi oli musta partistyttö, ja se tuli Kesannolle kesällä 2012
+Pitsi oli Solmun tavoin myös musta partistyttö, ja se tuli Kesannolle kesällä 2012
 Yorkshiresta. Pitsi kisasi koiratanssissa ja paimennuksessa.
 
 Valitettavasti kisaura päättyi vuonna 2019 kun Pitsin
@@ -24,6 +41,23 @@ toipui hyvin.
 Pitsi poistui keskuudestamme tyylilleen uskollisena nopeasti.
 Sillä oli sisäelimissä kasvain, jonka puhkeaminen aiheutti massiivisen
 sisäisen verenvuodon, ja Pitsin kunto romahti muutamassa tunnissa.
+
+## Niisi
+
+Riddle, 1.4.2010 - 03.11.2010.
+
+<figure style="width:300px" class="align-right">
+  <img src="/assets/niisi1.jpg">
+</figure>
+
+Niisi oli musta partistyttö, joka oli luonamme aivan liian vähän
+aikaa. Se jouduttiin lopettamaan lyhyen mutta rajun sairastamisen
+jälkeen. Ruumiinavauksessa paljastui, että sillä oli ollut märkivä
+keuhkotulehdus johon lääkehoito ei ollut purrut.
+
+Niisin poismeno oli kova kolaus, se oli iloinen ja itsevarma pentu,
+jolla olisi ollut kaikki mahdollisuudet olla erinomainen koti- ja
+harrastuskoira.
 
 ## Tykki
 
@@ -60,23 +94,6 @@ pitää lauman kasassa. Harmi että tuohon aikaan ei vielä ollut
 tarjolla nykyisen kaltaisia harjoitusmahdollisuuksia ja koulutusta,
 Petsun motivaatiolla sillä olisi ollut potentiaalia vaikka
 mihin. Kotona se oli ehdoton luottotyökoira.
-
-## Niisi
-
-Riddle, 1.4.2010 - 03.11.2010.
-
-<figure style="width:300px" class="align-right">
-  <img src="/assets/niisi1.jpg">
-</figure>
-
-Niisi oli musta partistyttö, joka oli luonamme aivan liian vähän
-aikaa. Se jouduttiin lopettamaan lyhyen mutta rajun sairastamisen
-jälkeen. Ruumiinavauksessa paljastui, että sillä oli ollut märkivä
-keuhkotulehdus johon lääkehoito ei ollut purrut.
-
-Niisin poismeno oli kova kolaus, se oli iloinen ja itsevarma pentu,
-jolla olisi ollut kaikki mahdollisuudet olla erinomainen koti- ja
-harrastuskoira.
 
 ## Putney
 

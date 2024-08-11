@@ -20,8 +20,8 @@ nimeltä Poju.
   <img src="/assets/poju1.jpg">
 </figure>
 
-Lampolana toimii vanha navetta. Tosin lampailla on vapaa pääsy laitumelle
-myös talvisin, ja ne näyttävät viihtyvän ulkosalla paremmin kuin
-sisällä lampolassa. Asiaan vaikuttaa varmasti myös se, että saamme
-talviheinät naapurin hevostilalta isoissa kanttipaaleissa, ja
-heinähäkki on laitumella paalin vieressä pressukatoksessa.
+Lampolana toimii vanha navetta. Lampailla on vapaa pääsy
+laitumelle myös talvisin, ja ne näyttävätkin viihtyvän ulkosalla paremmin
+kuin sisällä lampolassa. Talviheinät tulevat naapurin hevostilalta
+isoissa kanttipaaleissa, ja ruokapöydän vieressä laitumella on selvästi
+mukava köllötellä.
